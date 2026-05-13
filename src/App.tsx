@@ -7,6 +7,9 @@ function App() {
 
   return(
     <> 
+      <div className="App">
+        <h1>Hola trolin</h1>
+      </div>
     </>
   );
 }
