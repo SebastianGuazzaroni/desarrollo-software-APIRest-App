@@ -1,14 +1,12 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
+import Catalogo from './pages/Catalogo.tsx'
 
 function App() {
 
   return(
     <> 
       <div className="App">
-        <h1>Hola trolin</h1>
+        <Catalogo/>
       </div>
     </>
   );
