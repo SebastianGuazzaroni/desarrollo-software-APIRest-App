@@ -20,3 +20,6 @@ Arquitectura
   /pages
       /Catalogo
       /Carrito
+
+      
+      
